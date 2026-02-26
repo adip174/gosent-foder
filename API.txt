@@ -1,0 +1,8 @@
+const localFirebaseConfig = {
+  apiKey: "AIzaSyBPi1PWhbHOHqzVhKHOLUiRMeRB-4EAjXM",
+  authDomain: "gosent-foder.firebaseapp.com",
+  projectId: "gosent-foder",
+  storageBucket: "gosent-foder.firebasestorage.app",
+  messagingSenderId: "961460294239",
+  appId: "1:961460294239:web:f7222f1a2427fb2f7e81ea"
+};

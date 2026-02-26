@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">gosent-foder</string>
+    <string name="title_activity_main">gosent-foder</string>
+    <string name="package_name">com.pln.gosentfoder</string>
+    <string name="custom_url_scheme">com.pln.gosentfoder</string>
+</resources>
